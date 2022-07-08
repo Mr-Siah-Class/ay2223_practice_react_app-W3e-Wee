@@ -5,6 +5,10 @@ import './App.css';
 import NavBar from './component/NavBar';
 import FooterBar from './component/FooterBar';
 
+// Screen
+import NoScreen from './screen/NoScreen';
+import HomeScreen from './screen/HomeScreen';
+
 class App extends React.Component {
   constructor() {
     super()
