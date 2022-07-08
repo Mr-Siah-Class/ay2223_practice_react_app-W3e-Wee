@@ -1,20 +1,24 @@
 import React from 'react';
 import './App.css';
 
-class App extends React.Component
-{
-    constructor() {
-        super()
-    }
+// Components
+import NavBar from './component/NavBar';
+import FooterBar from './component/FooterBar';
 
-    render()
-    {
-        return (
-            <div>
-                <h1>Hello React!</h1>
-            </div>
-        );
-    }
+class App extends React.Component {
+  constructor() {
+    super()
+  }
+
+  render() {
+    return (
+      <div>
+        <NavBar />
+        <h1>Hello React!</h1>
+        <FooterBar />
+      </div>
+    );
+  }
 }
 
 export default App;
