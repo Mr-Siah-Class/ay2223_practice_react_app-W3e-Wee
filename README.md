@@ -1,2 +1,3 @@
-# ay2223_practice_react_app-W3e-Wee
-ay2223_practice_react_app-W3e-Wee created by GitHub Classroom
+# React App Example (Practice)
+Learn how to create a React App with reference from: 
+https://realizationlion.wixsite.com/blog/post/create-react-app-with-routing
